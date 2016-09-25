@@ -1,0 +1,76 @@
+
+==================================================================
+https://keybase.io/gernest
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gernest.github.io
+  * I am gernest (https://keybase.io/gernest) on keybase.
+  * I have a public key with fingerprint 0275 1D5D 582C 9615 758C  7F84 0D2B 9AA3 E49E AF69
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012003647efb7ba5bc973660178f8caf4c39049ca969195cbb718126f5472b0cabdf0a",
+            "fingerprint": "02751d5d582c9615758c7f840d2b9aa3e49eaf69",
+            "host": "keybase.io",
+            "key_id": "0d2b9aa3e49eaf69",
+            "kid": "0101bdd59298dd34d3fc2b744b98623a0db5c5181a018466c1d73dd9ee52c78977710a",
+            "uid": "bfacd7031ac824392ba3c91419f8a819",
+            "username": "gernest"
+        },
+        "service": {
+            "hostname": "gernest.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470915715,
+    "expire_in": 157680000,
+    "prev": "0ae46516e11fc1d4083503e1424e2a3cbd2e13086fe5e4cd0cac054d30b91911",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMNtAnicZVJ9TFVlHL4Q0LqhF5FAHJUdpA+5Xc97vs81gnKZ6aygRBTscs5533M5
+Aude7wfqlOJjbgjLscuSiZICAVtwRVCQiJEQH24krg0DI4ZGG1jEYnNJGNU5mH+0
+3n/eve/7/J73eZ7fr3/VYwZjwKr4qrqfPm1RAoZ7z3gNe5ph8VFMdMAjmPUolo1W
+NpQDkdtjy1YgZsVwQOA4yVAskkVWFGhR4lmSYXDAcjInCTIlkTxO8ZLAMzzgaUkU
+WcABgpFpiiVEXBJEKOMCZsZkRbUjl9OlqB6dlmBpAGlIc4TEM4BmaU5iZY7CISHy
+gkAiikeCzPBaYZbDrVdo4kTBjSyKQ7vTDraH8v6Pf6QbByKENE/wHIQkBUlZIkSW
+okSeYwhSwKFIS7QmVcABRzGMBCBLQsgjRBMSy/Esy4IV3d4VOlEWJMjiJBAkjqBI
+nhAFUuIBBXiZEzig/+t1I5cq5CINrRlVtQixfDOmXeYpEtJz1Y38F2CxK54sr/jQ
+k9Pl8DgkR472nOXxON1WvdxzxKnjDyHR9i+TTVRUqGWpVeQhl1txqJgVaEjJo+jU
+gGJxXssT0GYMHXYqLmRTdATNMhyuLf0flKcHJCCKoQGDAJA18xTOkTROIkARFCI0
+cyIkECBxjpERjSgJaq2UcFrLERe1RgOA6d4Oqg7MymsyBbtG6VbsquDxuhCW39eb
+EWQIMBpCggP1GTMYnwh7NHnGC2GGmsap8sLalNFAsiu187n+Jwteu/r7Ff+xIap2
+mPi+trilpv5y55TQHBBpTWs1lp6rKt1eYfkxMDzqPL5z6KOLb5HEseruXR3wqzRr
+yZ6tEYubLx3IaOSd9Wp9YtW1xa7c3NSkxaImtXX+tGlvhulOzL7zZYV9QdF3U+rG
+bz2fGfFyx0y7P/kziz0jOda4OjMsd/DkJ9l/fnA4sNy6O3Z7x9zBFwHTbq58NqE1
+Pj/x24UbHcyI7491Hx+/8UzjUt/0mRNObN/yX/u3YV9/HnQ5qNI337NhqcQfOUuD
+0ZqoznPBXZMTY+MnLyyMRAVRW96+3na/b246ZebBd9eSorecjv7l7PjehnsDBtt1
+bP6dewtnvxHqxlfHmbwzZZ6K4tQRi+Xpu664S4Xhbzh9qJd9ZbL71dqi22M3Cd9y
+lXnXUF7ionEwyZoTXjHdKs7O7YxST32Y7nowwdqnYrJbem/OtlcwV0LTE8rYZDzi
+paneHJx6PWQiLZ0aa7+9qeuHq7eqLk6ykW39tmETRzR9aS6uCWX2x/s4YuPC2pmM
+zFl/UejGgsGGd9fU56yvLH/vwI7qAZOVbbm/eempEGdi95vbdlS8ENtjHNzaWfq4
+n21PPxXjS/C0/b0huKtnfUl3U9yh35bHTajBuRuqa/Oqv5jeVFA+emeNdx08PpDa
+zLyPpf9abvz5hP8fFra+bQ==
+=+xx1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gernest
+
+==================================================================
