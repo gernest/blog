@@ -1,0 +1,21 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Geofrey Ernest Katesigwa on the web"
+theme="yinyang"
+
+[author]
+name="Geofrey Ernest Katesigwa"
+homepage = "https://github.com/gernest"
+
+[param]
+mainSections = ["post"]
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/gernest"
+[[params.socials]]
+name = "Twitter"
+link = "https://twitter.com/gernesti"
+[[params.socials]]
+name = "Linkedin"
+link = "https://www.linkedin.com/in/geofreyernest"

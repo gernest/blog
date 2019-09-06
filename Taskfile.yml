@@ -1,0 +1,11 @@
+tasks:
+  hugo:
+    cmds:
+      - hugo
+  gh:
+    deps: [hugo]
+    dir: public/
+    cmds: 
+      - git add .
+      - git gommit -m "rebuilding site"
+      - git push origin master

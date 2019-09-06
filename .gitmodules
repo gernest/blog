@@ -1,0 +1,7 @@
+[submodule "themes/yinyang"]
+	path = themes/yinyang
+	url = git@github.com:joway/hugo-theme-yinyang.git
+[submodule "public"]
+	path = public
+	url = git@github.com:gernest/gernest.github.io.git
+	branch = master
