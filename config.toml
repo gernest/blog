@@ -19,3 +19,6 @@ link = "https://twitter.com/gernesti"
 [[params.socials]]
 name = "Linkedin"
 link = "https://www.linkedin.com/in/geofreyernest"
+[[params.socials]]
+name = "Keybase"
+link = "https://keybase.io/gernest"
